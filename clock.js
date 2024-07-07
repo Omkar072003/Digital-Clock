@@ -34,3 +34,5 @@ const showTime = () => {
 
     document.getElementById('digitalclock').innerHTML = hour + ":" + minute + ":" + second
 }
+
+showTime()
